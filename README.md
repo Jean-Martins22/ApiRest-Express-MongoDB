@@ -21,6 +21,8 @@
 - Atualizar Publicadora: `/publicadoras/:id` (PUT)
 - Excluir Publicadora: `/publicadoras/:id` (DELETE)
 
+<h4>Essa é a estrutura JSON para fazer o POST e o PUT de Publicadora:</h4>
+
 ```json
 {
     "nome": "Sony",
@@ -36,6 +38,8 @@
 - Cadastrar Jogo: `/jogos` (POST)
 - Atualizar Jogo: `/jogos/:id` (PUT)
 - Excluir Jogo: `/jogos/:id` (DELETE)
+
+<h4>Essa é a estrutura JSON para fazer o POST e o PUT de Jogo:</h4>
 
 ```json
 {
