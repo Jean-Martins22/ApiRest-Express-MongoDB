@@ -1,7 +1,7 @@
 <h1>ApiRest com Express e MongoDB</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Api sobre uma biblioteca de jogos criada durante o curso de APIs com Node.js e Express na Alura 🎮</p>
+<p>Api sobre uma loja de jogos criada durante o curso de APIs com Node.js e Express 🎮</p>
 
 <h2> 🚀 Tecnologias </h2>
 <div>
